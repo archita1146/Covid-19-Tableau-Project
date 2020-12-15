@@ -10,7 +10,7 @@ I took the World-Level Data from the CDC Website and connected the data through 
 
 It has the daily number of cases nationwide, on the country level and state level as well. My main aim is to focus the audience’s attention on the number of cases, and details based on the different countries and the details of each state based upon the user’s interest. The data can tell which country have the most and least number of cases and deaths. There is one dashboard, which shows the entire view of the world where you can see the total number of cases and deaths overall. On the right side of the dashboard, you can see the top 10 countries with the highest number of cases and 10 states with the highest number of death rate. I have also showed the linear as well as the log graph for both the confirmed cases as well as death cases.
 
-Now you can see the world dashboard and click on countries to get the granular details. This is the working of my COVID-19 dashboard. 
+Now you can see the real-time dashboard and click on countries to get the granular details. This is the working of my COVID-19 dashboard. 
 ## Here is a link to the dashboard - https://public.tableau.com/profile/archita.jain#!/vizhome/Coronavirus_Cases/Dashboard1
 
 You can play with the dashboard and I would love to hear your feedback or suggestions on this one.
